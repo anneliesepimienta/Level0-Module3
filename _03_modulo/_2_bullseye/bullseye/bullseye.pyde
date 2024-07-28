@@ -1,4 +1,4 @@
-def setup():
+set size sketch 10def setup():
     # Set the size of your sketch
     
     
